@@ -2,9 +2,7 @@
   </br>
   <img src="https://github.com/SimonShiki/SimonShiki/blob/main/avatar.png?raw=true" width="200" />
   </br>
-  
-  ![](https://raw.githubusercontent.com/SimonShiki/SimonShiki/main/simon.svg)
-  
+  <img src="https://raw.githubusercontent.com/SimonShiki/SimonShiki/main/simon.svg" />
   </br>
   
   ### A developer, Still need to learn a lot.
