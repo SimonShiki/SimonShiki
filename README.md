@@ -2,11 +2,9 @@
   </br>
   <img src="https://github.com/SimonShiki/SimonShiki/blob/main/avatar.png?raw=true" width="200" />
   </br>
-  <img src="https://raw.githubusercontent.com/SimonShiki/SimonShiki/main/simon.svg" />
-  </br>
   
+  # Simon Shiki
   ### A developer, Still need to learn a lot.
-  
   </br>
 </div>
 
@@ -17,3 +15,6 @@
 ## 📫 Address
 Email: sinangentoo@gmail.com
 My blog: https://simonshiki.github.io/
+
+![SimonShiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonShiki&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonShiki&layout=compact)
