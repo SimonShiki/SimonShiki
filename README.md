@@ -4,7 +4,7 @@
   </br>
   
   # Simon Shiki
-  ### A developer, Still need to learn a lot.
+  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=494E59&width=550&lines=A+developer%2C+Still+need+to+learn+a+lot.)](https://git.io/typing-svg)
   </br>
 </div>
 
