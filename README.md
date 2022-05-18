@@ -4,7 +4,7 @@
   </br>
   
   # Simon Shiki
-  ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=494E59&width=550&lines=A+developer%2C+Still+need+to+learn+a+lot.)](https://git.io/typing-svg)
+  ### A front-end developer, still need to study a lot.
   </br>
 </div>
 
@@ -13,8 +13,6 @@
 - 🌱 I'm currently learning ``Next.js`` and ``Golang``.
 - 🎮 I'm playing Mini Metro, Minecraft and Phigros.
 ## 📫 Address
-Email: sinangentoo@gmail.com
-My blog: https://simonshiki.github.io/
-
-![SimonShiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonShiki&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonShiki&layout=compact)
+Email: sinangentoo@gmail.com  
+My blog: https://simonshiki.github.io/  
+![Metrics](/github-metrics.svg)
