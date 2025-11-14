@@ -1,6 +1,6 @@
 ## Hi, Simon Shiki there! 👋
 
-- 🏫 Freshman
+- 🏫 Sophomore， Major in CS
 - ✨ Studying for coding, Coding for study.
 - 🔧 Specialized in front-end development
 
